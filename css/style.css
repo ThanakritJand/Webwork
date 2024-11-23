@@ -3,9 +3,6 @@ body {
     font-family: 'Poppins', sans-serif;
     user-select: none;
     background-image: url('/img/background.JPG');
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    color: #fff;
 }
 
 .profile img{
